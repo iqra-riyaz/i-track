@@ -1,4 +1,4 @@
-# Daily Calendar Tracker
+# Daily Calendar Tracker 
 
 A modern web application for tracking daily activities, tasks, and wellness goals with a beautiful, responsive interface.
 
@@ -55,7 +55,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open https://i-track.netlify.app/  in your browser.
 
 ## Project Structure
 
@@ -131,4 +131,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
+
 - [Chart.js](https://www.chartjs.org/) 
